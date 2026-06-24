@@ -78,22 +78,12 @@ Git • GitHub • VS Code • Linux •
 <br><br>
 
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
 
-<br><br>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
-
 </div>
-
-<p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
-</p>
 
 
 
