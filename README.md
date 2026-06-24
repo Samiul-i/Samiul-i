@@ -10,13 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Samiul-i&label=Visitor+Count&color=orange&style=flat" />
-</p>
 
-<p align="center">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samiul-i&theme=react-dark&hide_border=true&area=true" />
-</p>>
 
 # 🛠️ Technical Skills
 
@@ -80,3 +74,11 @@ Git • GitHub • VS Code • Linux •
 
 
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Samiul-i&label=Visitor+Count&color=orange&style=flat" />
+</p>
+
+<p align="center">
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samiul-i&theme=react-dark&hide_border=true&area=true" />
+</p>>
