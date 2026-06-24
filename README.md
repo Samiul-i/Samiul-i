@@ -5,4 +5,9 @@
 <h2 align="center">
 🧩 Problem Solver 🧩 Data Specialist
 </h2>
+
 <hr>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Samiul-i&label=Visitor+Count&color=orange&style=flat" />
+</p>
