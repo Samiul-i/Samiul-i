@@ -18,5 +18,65 @@
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samiul-i&theme=react-dark&hide_border=true&area=true" />
 </p>>
 
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php&theme=dark" />
+</p>
+
+<p align="center">
+C • C++ • C# • Java • Python • JavaScript • PHP
+</p>
+
+---
+
+## 🌐 Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,spring,django,bootstrap&theme=dark" />
+</p>
+
+<p align="center">
+.NET • React • Spring Boot • Django • Bootstrap
+</p>
+
+---
+
+## 📊 Data Science & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</p>
+
+<p align="center">
+Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • XGBoost
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+</p>
+
+<p align="center">
+MySQL • MongoDB • SQLite
+</p>
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter&theme=dark" />
+</p>
+
+<p align="center">
+Git • GitHub • VS Code • Linux • Anaconda • Jupyter Notebook
+</p>
+
 
 
