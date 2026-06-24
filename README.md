@@ -5,3 +5,4 @@
 <h2 align="center">
 🧩 Problem Solver 🧩 Data Specialist
 </h2>
+<hr>
