@@ -23,11 +23,11 @@
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php,html&theme=dark" />
 </p>
 
 <p align="center">
-C • C++ • C# • Java • Python • JavaScript • PHP
+C • C++ • C# • Java • Python • JavaScript • PHP • Html
 </p>
 
 ---
@@ -35,11 +35,11 @@ C • C++ • C# • Java • Python • JavaScript • PHP
 ## 🌐 Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,spring,django,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,bootstrap&theme=dark" />
 </p>
 
 <p align="center">
-.NET • React • Spring Boot • Django • Bootstrap
+.NET • React • Bootstrap
 </p>
 
 ---
@@ -47,11 +47,11 @@ C • C++ • C# • Java • Python • JavaScript • PHP
 ## 📊 Data Science & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
 <p align="center">
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • XGBoost
+NumPy •
 </p>
 
 ---
@@ -59,11 +59,11 @@ Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • XGBoost
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 <p align="center">
-MySQL • MongoDB • SQLite
+MySQL • 
 </p>
 
 ---
@@ -71,11 +71,11 @@ MySQL • MongoDB • SQLite
 ## ⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
 <p align="center">
-Git • GitHub • VS Code • Linux • Anaconda • Jupyter Notebook
+Git • GitHub • VS Code • Linux •
 </p>
 
 
